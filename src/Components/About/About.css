@@ -1,0 +1,10 @@
+.about-section-container-slider {
+  width: 60%;
+}
+
+.about-section-container-slider-div {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

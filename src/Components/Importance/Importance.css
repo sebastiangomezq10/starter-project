@@ -1,0 +1,30 @@
+.importance-secton-container {
+  margin-top: 10rem;
+  
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.importance-secton-container-img {
+  max-width: 50%;
+}
+.importance-secton-container-img img {
+  max-width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.importance-secton-container-description {
+  margin: 20px;
+  max-width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+.importance-secton-container-description h2 {
+  font-size: 48px;
+}
+.importance-secton-container-description li {
+  font-size: 24px;
+  color: #6a6a6a;
+}
