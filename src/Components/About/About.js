@@ -20,7 +20,7 @@ const About = () => {
   return (
     <div className="about-section-container">
       <div className="title-section">
-        <h1>Services</h1>
+        <b>Services</b>
       </div>
       <div className="about-background-image-container">
         <img src={AboutBackground} alt="" />

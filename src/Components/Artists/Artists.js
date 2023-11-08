@@ -10,17 +10,19 @@ import Slider from "react-slick";
 
 
 const Artists = () => {
-  var settings = {
+  const settings = {
     dots: true,
+    lazyLoad: true,
     infinite: true,
     speed: 500,
     slidesToShow: 1,
-    slidesToScroll: 1
+    slidesToScroll: 1,
+    initialSlide: 2
   };
   return (
     <div>
       <div className="title-section">
-        <h1>Our Artist</h1>
+        <b>Our Artist</b>
       </div>
       <div className="mis-artistas-container">
         <div className="imagen-con-filtro">
@@ -32,7 +34,7 @@ const Artists = () => {
           <div className="titulo-descripcion">
             <h2>Adilson Miranda</h2>
             <p>
-              Animation Speciaist: adilson is passionate aboit animation and hasbeen instrumental creating visual tours that transport our clients to an immersive experience
+              Animation Speciaist: adilson is passionate about animation and creat visual tours that transport our clients to an immersive experience.
             </p>
           </div>
         </div>
@@ -40,18 +42,12 @@ const Artists = () => {
           <Slider {...settings}>
             <div className="about-section-container-slider-div">
               <img src={Logo} />
-
-              <h3>Exterior and interior rendering with high attention to detail.</h3>
-
+              <span>-</span>
             </div>
             <div className="about-section-container-slider-div">
               <img src={Logo} />
-
-              <h3>Exterior and interior rendering with high attention to detail.</h3>
-
+              <span>-</span>
             </div>
-
-
           </Slider>
         </div>
       </div>

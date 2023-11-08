@@ -15,7 +15,7 @@ function App() {
       <About />
       <Importance />
       <Artists />
-      <Work />
+      {/* <Work /> */}
       <Testimonial />
       <Contact />
       <Footer />
