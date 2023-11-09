@@ -1,10 +1,9 @@
 import React from "react";
 import "./About.css"
 import AboutBackground from "../../Assets/about-background.png";
-import AboutBackgroundImage from "../../Assets/about-background-image.png";
 import { BsFillPlayCircleFill } from "react-icons/bs";
 import { Carousel } from 'react-responsive-carousel';
-import Logo from "../../Assets/R7-1.jpg";
+import Logo from "../../Assets/Renders/R7-1.jpg";
 
 import Slider from "react-slick";
 
@@ -39,7 +38,7 @@ const About = () => {
           <div className="about-section-container-slider-div">
             <img src={Logo} />
 
-            <h3>Animations and virtual tours to showcase the project in its entirety</h3>
+            <h3>Animations and virtual tours to showcase the project </h3>
             <button className="secondary-button">
               See more
             </button>

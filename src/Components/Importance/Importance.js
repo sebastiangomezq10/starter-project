@@ -1,10 +1,8 @@
 import React from "react";
 import "./Importance.css"
-import importanceBackground from "../../Assets/R7-5.jpg";
-import AboutBackgroundImage from "../../Assets/about-background-image.png";
+import importanceBackground from "../../Assets/Renders/R7-5.jpg";
 import { BsFillPlayCircleFill } from "react-icons/bs";
 import { Carousel } from 'react-responsive-carousel';
-import Logo from "../../Assets/R7-1.jpg";
 
 import Slider from "react-slick";
 
