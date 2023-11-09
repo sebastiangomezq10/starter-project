@@ -1,18 +1,27 @@
 {
   "files": {
     "main.css": "/starter-project/static/css/main.21c7c4fc.css",
-    "main.js": "/starter-project/static/js/main.dec9884a.js",
+    "main.js": "/starter-project/static/js/main.f48fbc6c.js",
+    "static/media/R5-2.jpg": "/starter-project/static/media/R5-2.c3b70be39a50510f47ec.jpg",
+    "static/media/R1-3.jpg": "/starter-project/static/media/R1-3.dd2c5cb23cdf23f889fb.jpg",
     "static/media/R7-5.jpg": "/starter-project/static/media/R7-5.c6d420afec74ca7c3820.jpg",
     "static/media/R7-1.jpg": "/starter-project/static/media/R7-1.35f92993e59697db89ad.jpg",
-    "static/media/about-background-image.png": "/starter-project/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/R2-3.jpg": "/starter-project/static/media/R2-3.9b29a4c6c2dc101e692d.jpg",
+    "static/media/R4-2.jpg": "/starter-project/static/media/R4-2.8fbeb269118a5bd4bf58.jpg",
+    "static/media/olga.jpg": "/starter-project/static/media/olga.0a091779023a0ed4fad3.jpg",
     "static/media/artist.jpg": "/starter-project/static/media/artist.cc54ce908464efe223fa.jpg",
+    "static/media/nudolab.png": "/starter-project/static/media/nudolab.2b5581883483fbe7c852.png",
     "static/media/home-banner-background.png": "/starter-project/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/variacion2-positivo@2x.png": "/starter-project/static/media/variacion2-positivo@2x.f208215c18a8ac0fd50d.png",
+    "static/media/variacion3-positivo@2x.png": "/starter-project/static/media/variacion3-positivo@2x.dd5c5088e56eda222c47.png",
+    "static/media/Logo.svg": "/starter-project/static/media/Logo.e04f4319ea0059a833b1.svg",
+    "static/media/isotipo-positivo.svg": "/starter-project/static/media/isotipo-positivo.a53e3d07d6e5c4669c75.svg",
     "index.html": "/starter-project/index.html",
     "main.21c7c4fc.css.map": "/starter-project/static/css/main.21c7c4fc.css.map",
-    "main.dec9884a.js.map": "/starter-project/static/js/main.dec9884a.js.map"
+    "main.f48fbc6c.js.map": "/starter-project/static/js/main.f48fbc6c.js.map"
   },
   "entrypoints": [
     "static/css/main.21c7c4fc.css",
-    "static/js/main.dec9884a.js"
+    "static/js/main.f48fbc6c.js"
   ]
 }
